@@ -1,0 +1,152 @@
+{
+  "enableSearch": true,
+  "pages": [
+    {
+      "src": "AboutUs.md",
+      "title": "About Us",
+      "headings": {
+        "about-us": "About Us 🧑‍💼",
+        "project-team": "Project Team",
+        "sun-heqiao": "SUN HEQIAO",
+        "zhou-jingbin": "ZHOU JINGBIN",
+        "isaac-abraham": "ISAAC ABRAHAM",
+        "jasher-lim": "JASHER LIM",
+        "senthil-vaibhava-ram": "SENTHIL VAIBHAVA RAM"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "Configuration.md",
+      "title": "Configuration guide",
+      "headings": {
+        "configuration-guide": "Configuration guide"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "DevOps.md",
+      "title": "DevOps guide",
+      "headings": {
+        "devops-guide": "DevOps guide",
+        "build-automation": "Build automation",
+        "continuous-integration-ci": "Continuous integration (CI)",
+        "code-coverage": "Code coverage",
+        "repository-wide-checks": "Repository-wide checks",
+        "making-a-release": "Making a release"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "DeveloperGuide.md",
+      "title": "Developer Guide",
+      "headings": {
+        "gymcontactspro-developer-guide": "GymContactsPro Developer Guide 📖",
+        "table-of-contents": "Table of Contents",
+        "acknowledgements": "Acknowledgements",
+        "setting-up-getting-started": "Setting up, getting started",
+        "design": "Design",
+        "architecture": "Architecture",
+        "ui-component": "UI component",
+        "logic-component": "Logic component",
+        "model-component": "Model component",
+        "storage-component": "Storage component",
+        "common-classes": "Common classes",
+        "implementation": "Implementation",
+        "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
+        "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
+        "appendix-requirements": "Appendix: Requirements",
+        "product-scope": "Product scope",
+        "user-stories": "User stories",
+        "use-cases": "Use cases",
+        "non-functional-requirements": "Non-Functional Requirements",
+        "glossary": "Glossary",
+        "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
+        "launch-and-shutdown": "Launch and shutdown",
+        "adding-a-member": "Adding a member",
+        "listing-members": "Listing members",
+        "deleting-member-s": "Deleting member(s)",
+        "editing-a-member": "Editing a member",
+        "finding-member-s": "Finding member(s)",
+        "sorting-members": "Sorting members",
+        "renewing-membership": "Renewing membership",
+        "clearing-all-members": "Clearing all members",
+        "viewing-help": "Viewing help",
+        "exiting-the-program": "Exiting the program",
+        "saving-data": "Saving data"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "Documentation.md",
+      "title": "Documentation guide",
+      "headings": {
+        "documentation-guide": "Documentation Guide"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "Logging.md",
+      "title": "Logging guide",
+      "headings": {
+        "logging-guide": "Logging guide"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "SettingUp.md",
+      "title": "Setting up and getting started",
+      "headings": {
+        "setting-up-and-getting-started": "Setting up and getting started",
+        "setting-up-the-project-in-your-computer": "Setting up the project in your computer",
+        "before-writing-code": "Before writing code"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "Testing.md",
+      "title": "Testing guide",
+      "headings": {
+        "testing-guide": "Testing guide",
+        "running-tests": "Running tests",
+        "types-of-tests": "Types of tests"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "UserGuide.md",
+      "title": "User Guide",
+      "headings": {
+        "gymcontactspro-user-guide-i": "GymContactsPro User Guide ℹ️",
+        "table-of-contents": "Table of Contents",
+        "quick-start": "Quick Start",
+        "features": "Features",
+        "before-we-begin": "Before We Begin . . .",
+        "adding-a-member-add": "Adding a Member : add",
+        "listing-all-members-list": "Listing All Members : list",
+        "deleting-member-s-delete": "Deleting Member(s) : delete",
+        "editing-a-member-edit": "Editing a Member : edit",
+        "finding-member-s-find": "Finding Member(s) : find",
+        "sorting-members-sort": "Sorting Members : sort",
+        "renewing-membership-renew": "Renewing Membership : renew",
+        "clearing-all-data-clear": "Clearing All Data : clear",
+        "getting-help-help": "Getting Help : help",
+        "exiting-the-app-exit": "Exiting the App : exit",
+        "saving-data": "Saving Data",
+        "faq": "FAQ",
+        "known-issues": "Known Issues",
+        "command-summary": "Command Summary"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "index.md",
+      "title": "",
+      "headings": {
+        "gymcontactspro": "GymContactsPro 🏋️‍♀️",
+        "getting-started": "Getting Started",
+        "acknowledgements-libraries-used": "Acknowledgements (Libraries Used)"
+      },
+      "headingKeywords": {}
+    }
+  ]
+}
